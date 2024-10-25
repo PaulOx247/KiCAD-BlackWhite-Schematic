@@ -25,3 +25,8 @@ This repository contains a custom color scheme for KiCAD that allows users to pr
 2. When printing, you can select the desired color scheme in the print settings. Choose the black-and-white scheme to apply it during printing.
 3. Any elements assigned specific colors will retain those colors, while other parts will print in black and white.
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
